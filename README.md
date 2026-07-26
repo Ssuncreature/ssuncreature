@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Ssuncreature, feel free to call me Dawn or Sunn! I use she / they / it pronouns.
+Hi! I'm Ssuncreature; feel free to call me Dawn or Sunn! I use she / they / it pronouns.  
+Minor - 20/04
   
 ...  
 
