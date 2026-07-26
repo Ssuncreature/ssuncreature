@@ -17,7 +17,7 @@ Hi! I'm Ssuncreature, feel free to call me Dawn or Sunn! I use she / they / it p
   
 ...  
 
-🔭 Current projects:  
+🏷️ Current projects:  
 -    [ClanGen](ClanGenOfficial/clangen)  
 -    [Save Checker](https://github.com/Ssuncreature/clangen-save-checker)
         
