@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> [!IMPORTANT]
+> Personal website is not active yet!
 
 Hi! I'm Ssuncreature; feel free to call me Dawn or Sunn! I use she / they / it pronouns.  
 Minor - 20/04
