@@ -36,6 +36,8 @@
 
 .basicInfo {
     position: relative;
+    padding-left: 50%;
+    padding-top: 2%;
 }
 
 .portfolios {
@@ -49,18 +51,22 @@
 .contact {
     position: relative;
 }
+
 /* pagedoll */
 #terminaldoll {
     position: absolute;
 }
+
 #doll {
     position: absolute;
 }
+
 #dollhead {
     position: absolute;
     top: -16px;
     left: 20%
 }
+
 #logodoll {
     position: absolute;
     left: 18%;
