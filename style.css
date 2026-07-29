@@ -27,7 +27,21 @@
     }
 }
 
-/* Mobile Mode */
-@media (min-width: 600px) {
-    
+/* default - mobile */
+/* category posing */
+.pagedoll {
+    position: relative;
+}
+
+.basicInfo {
+    position: relative;
+}
+.portfolios {
+    position: relative;
+}
+.about {
+    position: relative;
+}
+.contact {
+    position: relative;
 }
