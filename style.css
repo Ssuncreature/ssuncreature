@@ -16,6 +16,14 @@
         text-align: left;
     }
 }
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: left;
+    }
+}
 .pagedoll {
     position: relative;
 }

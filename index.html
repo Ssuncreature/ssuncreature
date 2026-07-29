@@ -13,9 +13,12 @@
     <div>
         <!-- pagedoll -->
         <div class="pagedoll">
-            <img src="resources/terminal_DARK.png" width="400px"
+            <picture id="terminaldoll"
                 alt="a terminal window containing a chibi character with blonde hair, grey eyes, and a green hoodie."
-                id="terminaldoll">
+                width="400px">
+                <source media="(prefers-color-scheme: light)" srcset="resources/terminal_LIGHT.png">
+                <img src="resources/terminal_DARK.png" width="400px">
+            </picture>
             <img src="resources/pagedoll_me.gif" width="400px" id="doll">
             <img src="resources/logo.png" id="logodoll">
             <p id="dollhead">
@@ -32,7 +35,7 @@
                 <br>
                 minor - 20/04
                 <br>
-                <ul>
+            <ul>
                 <li>
                     javascript, HTML, and python programmer
                 </li>
@@ -42,7 +45,7 @@
                 <li>
                     code/writing developer for <a href="https://clangen.io/"> ClanGen </a>
                 </li>
-                </ul>
+            </ul>
             </p>
         </div>
         <!-- portfolios -->
@@ -50,8 +53,11 @@
         </div>
         <!-- about me -->
         <div class="about">
-            <!-- replace img with picture for colour changing -->
-            <img src="resources/terminal_DARK.png" width="400px" id="aboutterminal">
+            <picture id="aboutterminal"
+                width="400px">
+                <source media="(prefers-color-scheme: light)" srcset="resources/terminal_LIGHT.png">
+                <img src="resources/terminal_DARK.png" width="400px">
+            </picture>
             <p id="abouthead"> about_me.html </p>
             <p id="about"> gonna write some stuff </p>
         </div>
@@ -69,4 +75,5 @@
         <img src="resources/logo.png">
     </div>
 </body>
+
 </html>
