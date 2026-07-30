@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> [!IMPORTANT]
-> Personal website is not functional on mobile or tablet yet!
 
 [https://ssuncreature.github.io/ssuncreature/](https://ssuncreature.github.io/ssuncreature)
 
