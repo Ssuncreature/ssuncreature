@@ -18,6 +18,11 @@
     }
 }
 
+a {
+    color: palevioletred
+    /* alt colour maybe rgb(116, 187, 80) */
+}
+
 /* default - computer */
 /* category posing */
 .pagedoll {
@@ -106,10 +111,14 @@
 /* adjust to stop overlap on smaller screens*/
 @media (max-width: 1200px) {
     .pagedoll {
-    margin-left: 5%;
+        margin-left: 5%;
+    }
 }
 
 /* mobile mode */
-}
+
 @media (max-width: 920px) {
+    .pagedoll {
+        margin-left: 25%
+    }
 }
