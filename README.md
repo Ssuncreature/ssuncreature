@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 > [!IMPORTANT]
 > Personal website is not functional on mobile or tablet yet!
 
-[https://ssuncreature.github.io/ssuncreature/]([url](https://ssuncreature.github.io/ssuncreature/))
+[https://ssuncreature.github.io/ssuncreature/]([https://ssuncreature.github.io/ssuncreature)
 
 Hi! I'm Ssuncreature; feel free to call me Dawn or Sunn! I use she / they / it pronouns.  
 Minor - 20/04
