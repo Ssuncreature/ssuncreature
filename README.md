@@ -24,5 +24,10 @@ Minor - 20/04
 
 🏷️ Current projects:  
 -    [🌱 ClanGen](ClanGenOfficial/clangen)  
--    [🔭 Save Checker](https://github.com/Ssuncreature/clangen-save-checker)
-        
+-    [🔭 Save Checker](https://github.com/Ssuncreature/clangen-save-checker)  
+
+
+🔭 Concepts/coming soon:
+- Bird Guide
+- Anti-AI Chrome extension
+- Desktop assistant
