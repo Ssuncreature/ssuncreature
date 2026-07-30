@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[https://ssuncreature.github.io/ssuncreature/](https://ssuncreature.github.io/ssuncreature)
+[https://ssuncreature.github.io/](https://ssuncreature.github.io/ssuncreature)
 
 Hi! I'm Ssuncreature; feel free to call me Dawn or Sunn! I use she / they / it pronouns.  
 Minor - 20/04
