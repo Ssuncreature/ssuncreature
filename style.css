@@ -115,10 +115,6 @@ a {
     }
 }
 
-/* mobile mode */
+/* mobile mode - horizontal */
 
-@media (max-width: 920px) {
-    .pagedoll {
-        margin-left: 25%
-    }
-}
+/* mobile mode - vertical */
