@@ -103,4 +103,13 @@
     bottom: 15px;
 }
 
-/* TODO: Mobile version, tablet version.
+/* adjust to stop overlap on smaller screens*/
+@media (max-width: 1200px) {
+    .pagedoll {
+    margin-left: 5%;
+}
+
+/* mobile mode */
+}
+@media (max-width: 920px) {
+}
