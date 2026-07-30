@@ -45,6 +45,7 @@
 
 .contact {
     position: relative;
+    margin-left: 18%;
 }
 
 /* pagedoll */
@@ -94,3 +95,12 @@
 #terminalabout {
     width: 400px;
 }
+
+/* other stuff */
+#otherpagedoll {
+    position: fixed;
+    right: 25px;
+    bottom: 15px;
+}
+
+/* TODO: Mobile version, tablet version.
