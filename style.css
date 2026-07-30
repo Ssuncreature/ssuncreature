@@ -22,13 +22,13 @@
 /* category posing */
 .pagedoll {
     position: relative;
-    padding-left: 15%;
+    margin-left: 15%;
 }
 
 .basicInfo {
     position: relative;
-    padding-left: 50%;
-    padding-top: 2%;
+    margin-left: 50%;
+    margin-top: 2%;
 }
 
 .portfolios {
@@ -37,8 +37,10 @@
 
 .about {
     position: relative;
-    padding-left: 50%;
-    padding-top: 5%;
+    margin-left: 50%;
+    margin-top: 5%;
+    border: 2px grey solid;
+    width: 400px;
 }
 
 .contact {
@@ -48,6 +50,7 @@
 /* pagedoll */
 #terminaldoll {
     position: absolute;
+    border: 2px grey solid;
 }
 
 #doll {
@@ -56,33 +59,38 @@
 
 #dollhead {
     position: absolute;
-    top: -16px;
-    left: 20%
+    top: -15px;
+    left: 6%
 }
 
 #logodoll {
     position: absolute;
-    left: 18%;
+    left: 3.5%;
+    top: 3px;
 }
 
 /* about */
 #abouttext {
-    overflow: auto;
     width: 380px;
     position: absolute;
-    top: 22%;
-    padding-left: 1%;
-    padding-top: 1%;
+    top: 10%;
+    margin-left: 2%;
+    margin-top: 1%;
 }
 
 #abouthead {
     position: absolute;
-    top: 15%;
-    left: 55%;
+    top: -14px;
+    left: 18%;
 }
 
 #logoabout {
     position: absolute;
-    top: 19.5%;
-    left: 53%;
+    top: 1%;
+    left: 10%;
+
+}
+
+#terminalabout {
+    width: 400px;
 }
